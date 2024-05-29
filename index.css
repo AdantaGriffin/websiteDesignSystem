@@ -1,0 +1,110 @@
+h2 {
+    font-weight: 300;
+    font-family: 'Helvetica';
+    text-align: center;
+}
+h1 {
+    font-family: 'Helvetica';
+    text-align: center
+}
+nav {
+    text-align: center;
+}
+li.nav {
+    display: inline;
+}
+li.nav, a {
+    font-family: 'Helvetica';
+    margin-left: 2em;
+    text-decoration: none;
+    color: black;
+}
+ul#color, li {
+    text-align: justify;
+    list-style-type: none;
+    float: left;
+    padding: .2em;
+    margin: 0 0 .15em .15em;
+    
+}
+p.clearfloat {
+    clear: both;
+}
+li#blue {
+    width: 40px;
+    background-color: blue;
+}
+li#green {
+    width: 40px;
+    background-color: green;
+}
+li#brown {
+    width: 40px;
+    background-color: brown;
+}
+li#f08080 {
+    width: 60px;
+    background-color: #f08080;
+}
+li#d7e7d8 {
+    width: 60px;
+    background-color: #d7e7d8;
+}
+li#bada55 {
+    width: 60px;
+    background-color: #bada55;
+}
+li#rgb1 {
+    width: 120px;
+    background-color: rgb(232, 41, 41);
+}
+li#rgb2 {
+    width: 120px;
+    background-color: rgb(155, 235, 229);
+}
+li#rgb3 {
+    width: 120px;
+    background-color: rgb(7, 38, 198);
+}
+li#hsl1 {
+    width: 120px;
+    background-color: hsl(123, 72%, 83%);
+}
+li#hsl2 {
+    width: 120px;
+    background-color: hsl(24, 90%, 80%);
+}
+li#hsl3 {
+    width: 120px;
+    background-color: hsl(300, 80%, 80%);
+}
+mark#family {
+    font-family: Helvetica;
+}
+mark#size {
+    font-size: 1.2em;
+}
+mark#bold {
+    font-weight: bold;
+}
+mark#center {
+    text-align: center;
+}
+div#div1 {
+    background-color: rgb(131, 199, 241);
+    text-align: center;
+    width: 48%;
+    border: 1px solid black;
+    float: left;
+}
+div#div2 {
+    background-color: hsl(106, 94%, 79%);
+    text-align: center;
+    margin-left: .5em;
+    width: 48%;
+    border: 1px dotted black;
+    float: left;
+}
+div#sectionorganize {
+    width: 80%;
+}
